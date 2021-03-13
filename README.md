@@ -1,6 +1,6 @@
 # SparkMeetupKakfka
 
-### Streaming Meetup.com with Spark###
+### Streaming Meetup.com with Spark
 1. Write Producer that consume message from meetup and produce to Kakfa Topic
 2. Write Spark Streaming Application that consume message from Kakfa Topic and calculate number of RSVP in real time
 
